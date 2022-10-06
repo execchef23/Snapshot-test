@@ -8,9 +8,9 @@ function GitHubCard() {
           <Card style={{ width: "18rem"}}>
           <Card.Img variant="top" src={profile_picture} />        
            <Card.Body>
-              <Card.Title>Bertha Zhao</Card.Title>
+              <Card.Title>Michael Manley</Card.Title>
               <Card.Text>
-              I am a tax analyst with six years of experience.
+              I am an Executive Director for Senior Living.
               </Card.Text>
           </Card.Body>
           </Card>
